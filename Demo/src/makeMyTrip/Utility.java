@@ -29,5 +29,13 @@ public class Utility {
 		String KeyValue = pp.getProperty(key);
 		return KeyValue;
 	}
+
 	
+	
+	public void SySdate() {
+		
+		
+	}
 }
+
+
